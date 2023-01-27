@@ -1,1 +1,1 @@
-# Second non empty readme file
+# Updated and edited README from github.com
